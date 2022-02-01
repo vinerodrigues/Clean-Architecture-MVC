@@ -1,0 +1,15 @@
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\bin\Debug\net5.0\CleanArcMvc.Aplication.deps.json
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\bin\Debug\net5.0\CleanArcMvc.Aplication.dll
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\bin\Debug\net5.0\ref\CleanArcMvc.Aplication.dll
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\bin\Debug\net5.0\CleanArcMvc.Aplication.pdb
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\CleanArcMvc.Aplication.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\CleanArcMvc.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\CleanArcMvc.Aplication.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\CleanArcMvc.Aplication.AssemblyInfo.cs
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\CleanArcMvc.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\CleanArcMvc.Aplication.dll
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\ref\CleanArcMvc.Aplication.dll
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\CleanArcMvc.Aplication.pdb
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\bin\Debug\net5.0\CleanArcMvc.Domain.dll
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\bin\Debug\net5.0\CleanArcMvc.Domain.pdb
+C:\Users\rodri\Desktop\.Net C#\CleanArcMvc\CleanArcMvc.Aplication\obj\Debug\net5.0\CleanArcMvc.Aplication.csproj.CopyComplete

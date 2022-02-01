@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArcMvc.Aplication\CleanArcMvc.Aplication.csproj" />
+    <ProjectReference Include="..\CleanArcMvc.Domain\CleanArcMvc.Domain.csproj" />
+    <ProjectReference Include="..\CleanArcMvc.Infra.Data\CleanArcMvc.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
